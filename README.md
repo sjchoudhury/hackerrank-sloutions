@@ -1,0 +1,2 @@
+# hackerrank-sloutions
+for hackerrank 
